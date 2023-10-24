@@ -4,6 +4,7 @@
         <item>
             <title>Cesla Platform</title>
             <sparkle:version>5.0</sparkle:version>
+            <sparkle:minimumSystemVersion>5.0.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
