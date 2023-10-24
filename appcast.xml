@@ -3,8 +3,8 @@
     <channel>
         <item>
             <title>Cesla Platform</title>
-            <sparkle:version>6.6.6</sparkle:version>
-            <sparkle:maximumSystemVersion>6.6.6</sparkle:maximumSystemVersion>
+            <sparkle:version>6.60.6</sparkle:version>
+            <sparkle:maximumSystemVersion>6.60.6</sparkle:maximumSystemVersion>
         </item>
     </channel>
 </rss>
