@@ -3,10 +3,6 @@
     <channel>
         <item>
             <title>Cesla Platform</title>
-            <sparkle:version>1.40.2</sparkle:version>
-        </item>
-        <item>
-            <title>Cesla Platform</title>
             <sparkle:version>6.6.6</sparkle:version>
             <sparkle:maximumSystemVersion>6.6.6</sparkle:maximumSystemVersion>
         </item>
