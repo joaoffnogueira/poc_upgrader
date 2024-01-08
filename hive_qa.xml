@@ -3,8 +3,8 @@
     <channel>
         <item>
             <title>Cesla Platform (QA)</title>
-            <sparkle:version>1.47.4</sparkle:version>
-            <sparkle:maximumSystemVersion>1.47.4</sparkle:maximumSystemVersion>
+            <sparkle:version>1.47.5</sparkle:version>
+            <sparkle:maximumSystemVersion>1.47.5</sparkle:maximumSystemVersion>
         </item>
     </channel>
 </rss>
