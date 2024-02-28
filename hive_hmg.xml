@@ -3,8 +3,8 @@
     <channel>
         <item>
             <title>Cesla Platform (HMG)</title>
-            <sparkle:version>2.2.0</sparkle:version>
-            <sparkle:maximumSystemVersion>2.2.0</sparkle:maximumSystemVersion>
+            <sparkle:version>2.3.1</sparkle:version>
+            <sparkle:maximumSystemVersion>2.3.1</sparkle:maximumSystemVersion>
         </item>
     </channel>
 </rss>
