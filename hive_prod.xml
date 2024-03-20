@@ -3,8 +3,8 @@
     <channel>
         <item>
             <title>Cesla Platform (PROD)</title>
-            <sparkle:version>2.3.1</sparkle:version>
-            <sparkle:maximumSystemVersion>2.3.1</sparkle:maximumSystemVersion>
+            <sparkle:version>2.6.5</sparkle:version>
+            <sparkle:maximumSystemVersion>2.6.5</sparkle:maximumSystemVersion>
         </item>
     </channel>
 </rss>
